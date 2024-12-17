@@ -44,7 +44,7 @@ Follow the steps below to set up your environment and begin using the notebooks.
 Before you begin, ensure you have met the following requirements:
 
 - **UCloud Account:**  
-  Sign up for a [UCloud account](https://www.ucloud.cn/) to access Interactive HPC services.
+  Sign up for a [UCloud account](https://cloud.sdu.dk) to access Interactive HPC services.
 
 - **Hugging Face Token:**  
   Obtain a [Hugging Face token](https://huggingface.co/settings/tokens) to access and download model repositories.
