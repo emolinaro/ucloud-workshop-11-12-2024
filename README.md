@@ -17,7 +17,7 @@ This collection of Jupyter notebooks is designed to guide participants through t
 **Key Learning Objectives:**
 
 - Fine-tune Llama models using the NeMo Framework.
-- Optimize models for deployment with TensorRT.
+- Optimize models for deployment with TensorRT-LLM.
 - Deploy models on Triton Inference Server for scalable and efficient inference.
 - Conduct performance profiling to evaluate deployment efficacy.
 
