@@ -2,7 +2,7 @@
 
 **Advanced AI Tool Development on DeiC Interactive HPC UCloud**
 
-Workshop delivered on **December 12th, 2024**
+Workshop delivered on **December 11th, 2024**
 
 ## Table of Contents
 
