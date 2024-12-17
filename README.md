@@ -32,7 +32,7 @@ This repository comprises three primary Jupyter notebooks, each focusing on diff
    - **Description:** Extend your fine-tuning skills to the larger Llama-3.1-70B model, exploring scalability and optimization strategies within the NeMo environment.
 
 3. **[Deploying Llama-3.3-70B with Triton Inference Server](notebooks/llama3.3-70B-triton.ipynb)**
-   - **Description:** Dive into the deployment process of the optimized Llama-3.3-70B model using Triton Inference Server, enhancing inference performance with TensorRT and conducting comprehensive performance profiling.
+   - **Description:** Dive into the deployment process of the optimized Llama-3.3-70B model using Triton Inference Server, enhancing inference performance with TensorRT-LLM and conducting comprehensive performance profiling.
 
 
 ## Getting Started
